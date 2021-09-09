@@ -16,6 +16,7 @@ p {
 
 #navbar {
     height: 100px;
+    margin-left: 10vw;
     background: -webkit-linear-gradient(#000000, #00000000);
 }
 
