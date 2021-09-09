@@ -17,7 +17,7 @@ p {
 #navbar {
     height: 100px;
     padding-left: 10vw;
-    background: -webkit-linear-gradient(#000000, #00000000);
+    background: -webkit-linear-gradient(#0a0a0a, #0a0a0a00);
 }
 
 #content {
