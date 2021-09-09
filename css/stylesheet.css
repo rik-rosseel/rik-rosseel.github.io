@@ -13,6 +13,14 @@ p {
     margin: .25em 0px
 }
 
+
+#content {
+    margin-left: 10vw;
+    margin-top: 5vh;
+    justify-content: center;
+}
+
+
 .narrow {
     font-weight: 300;
 }
@@ -28,11 +36,6 @@ p {
 }
 .big {
     font-size: 8vw;
-}
-
-#content {
-    margin-left: 10vw;
-    justify-content: center;
 }
 
 .center {
