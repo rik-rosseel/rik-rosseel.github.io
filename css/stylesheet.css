@@ -46,7 +46,7 @@ p {
 }
 
 .small {
-    font-size: 6vw;
+    font-size: 4vw;
 }
 .regular {
     font-size: 8vw;
@@ -60,9 +60,9 @@ p {
 }
 
 .paragraph-1 {
-    font-size: 2vw;
+    font-size: 4vw;
     color: #cccccc;
-    max-width: 40%;
+    max-width: 80%;
 }
 
 .highlight {
@@ -83,5 +83,11 @@ p {
     }
     .big {
         font-size: 8vw;
-    }    
+    }   
+    
+    .paragraph-1 {
+        font-size: 2vw;
+        color: #cccccc;
+        max-width: 40%;
+    }
 }
