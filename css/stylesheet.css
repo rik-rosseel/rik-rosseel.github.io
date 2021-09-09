@@ -10,7 +10,7 @@ body {
 }
 
 p {
-    margin: .25em 0px
+    margin: .2em 0px
 }
 
 
@@ -46,6 +46,11 @@ p {
 
 .center {
     align-content: center;
+}
+
+.paragraph-1 {
+    color: #cccccc;
+    max-width: 40%;
 }
 
 .highlight {
