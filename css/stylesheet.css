@@ -27,7 +27,8 @@ body {
 }
 
 #content {
-    margin-left: 1vw;
+    margin-left: 10vw;
+    justify-content: center;
 }
 
 .center {
