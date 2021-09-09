@@ -16,13 +16,13 @@ p {
 
 #navbar {
     height: 100px;
-    margin-left: 10vw;
+    padding-left: 10vw;
     background: -webkit-linear-gradient(#000000, #00000000);
 }
 
 #content {
-    margin-left: 10vw;
-    margin-top: 10vh;
+    padding-left: 10vw;
+    padding-top: 10vh;
     justify-content: center;
 }
 
