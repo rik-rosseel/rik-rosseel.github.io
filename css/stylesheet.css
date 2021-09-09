@@ -16,7 +16,7 @@ p {
 
 #content {
     margin-left: 10vw;
-    margin-top: 5vh;
+    margin-top: 10vh;
     justify-content: center;
 }
 
@@ -43,7 +43,7 @@ p {
 }
 .higher {
     position:relative;
-    top:-0.05em;
+    top:-0.075em;
 }
 
 .highlight {
