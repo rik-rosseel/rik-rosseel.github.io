@@ -46,7 +46,7 @@ p {
 }
 
 .small {
-    font-size: 4vw;
+    font-size: 6vw;
 }
 .regular {
     font-size: 8vw;
@@ -76,7 +76,7 @@ p {
 /* Large screens */
 @media only screen and (min-width: 786px) {
     .small {
-        font-size: 2vw;
+        font-size: 3vw;
     }
     .regular {
         font-size: 4vw;
