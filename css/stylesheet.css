@@ -41,6 +41,10 @@ p {
 .center {
     align-content: center;
 }
+.higher {
+    position:relative;
+    top:-0.1em;
+}
 
 .highlight {
     background: -webkit-linear-gradient(45deg, #AE8625, #F7EF8A 45%, #D2AC47 80%, #EDC967);
