@@ -49,6 +49,7 @@ p {
 }
 
 .paragraph-1 {
+    font-size: 2vw;
     color: #cccccc;
     max-width: 40%;
 }
