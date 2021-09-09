@@ -4,7 +4,7 @@ body {
     font-family: 'Nunito', 'sans-serif';
     font-weight: 500;
     color: #ffffff;
-    background-color: #121212;
+    /*background-color: #121212;*/
     
     margin: 0;
 }
@@ -13,6 +13,11 @@ p {
     margin: .15em 0px
 }
 
+
+#navbar {
+    height: 100px;
+    background: -webkit-linear-gradient(#000000, #00000000);
+}
 
 #content {
     margin-left: 10vw;
@@ -55,7 +60,7 @@ p {
 }
 
 .highlight {
-    background: -webkit-linear-gradient(45deg, #AE8625, #F7EF8A 45%, #D2AC47 80%, #EDC967);
+    background: -webkit-linear-gradient(90deg, #AE8625, #F7EF8A 45%, #D2AC47 80%, #EDC967);
     background-clip: border-box;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
