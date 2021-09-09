@@ -5,6 +5,8 @@ body {
     font-weight: 500;
     color: #ffffff;
     background-color: #121212;
+
+    margin: 0;
 }
 
 .narrow {
@@ -22,6 +24,10 @@ body {
 }
 .big {
     font-size: 8vw;
+}
+
+#content {
+    margin-left: 1vw;
 }
 
 .center {
