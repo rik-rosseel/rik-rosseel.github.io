@@ -15,6 +15,11 @@ p {
     margin: .15em 0px
 }
 
+img {
+    max-width: 100%;
+    display: block;
+}
+
 
 #navbar {
 	position: -webkit-sticky;
