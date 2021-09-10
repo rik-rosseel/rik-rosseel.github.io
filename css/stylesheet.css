@@ -146,6 +146,11 @@ img {
 
 /* Large screens */
 @media only screen and (min-width: 786px) {
+    #content {
+        padding-top: 20vh;
+        justify-content: center;
+    }
+    
     .small-font {
         font-size: 3vw;
     }
