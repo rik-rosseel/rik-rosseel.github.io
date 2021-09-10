@@ -31,12 +31,12 @@ img {
 }
 
 #content {
-    padding-left: 10vw;
     padding-top: 10vh;
     justify-content: center;
 }
 
 #headline {
+    padding-left: 10vw;
     min-height: 400px;
 }
 
