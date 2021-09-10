@@ -82,6 +82,7 @@ img {
     max-width: 80%;
 }
 
+/* Cards */
 .card-container {
     width: 100%;
     display: flex;
@@ -145,13 +146,13 @@ img {
 
 /* Large screens */
 @media only screen and (min-width: 786px) {
-    .small {
+    .small-font {
         font-size: 3vw;
     }
-    .regular {
+    .medium-font {
         font-size: 4vw;
     }
-    .big {
+    .big-font {
         font-size: 8vw;
     }   
     
