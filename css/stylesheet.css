@@ -31,7 +31,7 @@ img {
 }
 
 #content {
-    padding-top: 3vh;
+    padding-top: 5vh;
     justify-content: center;
 }
 
@@ -148,7 +148,7 @@ img {
 /* Large screens */
 @media only screen and (min-width: 786px) {
     #content {
-        padding-top: 3vh;
+        padding-top: 5vh;
         justify-content: center;
     }
     
