@@ -8,6 +8,7 @@ body {
     color: #ffffff;
     background-color: #121212;
     
+    display: flex;
     margin: 0;
 }
 
@@ -31,7 +32,7 @@ img {
 }
 
 #content {
-    padding-top: 5vh;
+    padding-top: 12vh;
     justify-content: center;
 }
 
@@ -148,7 +149,7 @@ img {
 /* Large screens */
 @media only screen and (min-width: 786px) {
     #content {
-        padding-top: 5vh;
+        padding-top: 12vh;
         justify-content: center;
     }
     
