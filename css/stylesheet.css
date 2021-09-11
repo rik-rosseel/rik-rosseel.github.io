@@ -27,13 +27,14 @@ img {
 	top: 0;
     z-index: 99;
     height: 100px;
+    width: 100%;
     padding-left: 10vw;
     background: -webkit-linear-gradient(#0a0a0a, #0a0a0a00);
 }
 
 #content {
     flex: 1 0 auto;
-    /* padding-top: 12vh; */
+    padding-top: 100px;
     justify-content: center;
 }
 
