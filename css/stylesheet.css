@@ -23,9 +23,9 @@ img {
 
 
 #navbar {
-	position: -webkit-sticky;
-	position: sticky;
+	position: fixed;
 	top: 0;
+    z-index: 99;
     height: 100px;
     padding-left: 10vw;
     background: -webkit-linear-gradient(#0a0a0a, #0a0a0a00);
