@@ -94,27 +94,14 @@ img {
     justify-content: center;
 }
 
-/* Card ratio: 0.6 */
-.small-card {
-    margin: 10px;
-    width: 50px;
-    height: 84px;
-    border-radius: 10px;
-}
-.medium-card {
-    margin: 12px;
+.card {
+    margin: 15px 7px 15px 8px;
     width: 150px;
     height: 250px;
     border-radius: 15px;
 }
-.big-card {
-    margin: 15px;
-    width: 250px;
-    height: 417px;
-    border-radius: 20px;
-}
 
-.meshgradient-1 {
+.gradient {
     background-color: #ff404d;
     background-image:  
         radial-gradient(at 40% 20%, hsla(28,100%,74%,1) 0, transparent 50%),  
@@ -125,31 +112,9 @@ img {
         radial-gradient(at 80% 100%, hsla(242,100%,70%,1) 0, transparent 50%),  
         radial-gradient(at 0% 0%, hsla(343,100%,76%,1) 0, transparent 50%);;
 }
-.meshgradient-2 {
-    background-color: #cf99ff;
-    background-image:  
-        radial-gradient(at 62% 94%, hsla(13,93%,66%,1) 0, transparent 43%),  
-        radial-gradient(at 8% 82%, hsla(107,74%,77%,1) 0, transparent 42%),  
-        radial-gradient(at 99% 91%, hsla(59,83%,65%,1) 0, transparent 57%),  
-        radial-gradient(at 54% 7%, hsla(68,84%,60%,1) 0, transparent 58%),  
-        radial-gradient(at 67% 8%, hsla(140,66%,71%,1) 0, transparent 45%),  
-        radial-gradient(at 92% 70%, hsla(277,80%,65%,1) 0, transparent 54%),  
-        radial-gradient(at 66% 43%, hsla(327,83%,61%,1) 0, transparent 40%);
-}
-.meshgradient-3 {
-    background-color: #ffa599;
-    background-image:  
-        radial-gradient(at 68% 29%, hsla(312,66%,76%,1) 0, transparent 40%),  
-        radial-gradient(at 8% 1%, hsla(271,74%,77%,1) 0, transparent 50%),  
-        radial-gradient(at 98% 52%, hsla(16,69%,60%,1) 0, transparent 52%),  
-        radial-gradient(at 69% 69%, hsla(88,61%,78%,1) 0, transparent 52%),  
-        radial-gradient(at 30% 40%, hsla(125,97%,65%,1) 0, transparent 49%),  
-        radial-gradient(at 14% 89%, hsla(160,72%,65%,1) 0, transparent 45%),  
-        radial-gradient(at 73% 88%, hsla(291,89%,77%,1) 0, transparent 51%);
-}
 
 .zoom {
-    background-color: black;
+    background-color: white;
     transition: transform .2s;
   }
   
