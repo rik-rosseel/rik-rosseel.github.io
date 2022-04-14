@@ -94,7 +94,7 @@ img {
 }
 
 .card {
-    margin: 10%;
+    margin: 3vw;
     width: 20vw;
     height: calc(20vw * 1.7);
     border-radius: 15px;
