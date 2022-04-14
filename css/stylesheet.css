@@ -54,15 +54,15 @@ img {
     min-height: 400px;
 }
 #headline1 {
-    opacity: initial 0;
+    opacity: 0;
     animation: 1.5s ease-out .5s pageLoad;
 }
 #headline2 {
-    opacity: initial 0;
+    opacity: 0;
     animation: 1.5s ease-out 1s pageLoad;
 }
 #headline3 {
-    opacity: initial 0;
+    opacity: 0;
     animation: 1.5s ease-out 1.5s pageLoad;
 }
 
