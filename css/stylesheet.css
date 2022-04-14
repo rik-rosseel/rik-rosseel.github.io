@@ -52,7 +52,7 @@ img {
 #header-div {
     margin: 20px 0;
     padding-left: 10vw;
-    min-height: 400px;
+    /* min-height: 400px; */
 }
 #header1 {
     opacity: 0;
