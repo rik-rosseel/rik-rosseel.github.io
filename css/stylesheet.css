@@ -55,15 +55,15 @@ img {
 }
 #headline1 {
     opacity: 0;
-    animation: 1.5s ease-out .5s pageLoad;
+    animation: 1.5s ease-out .5s forwards pageLoad;
 }
 #headline2 {
     opacity: 0;
-    animation: 1.5s ease-out 1s pageLoad;
+    animation: 1.5s ease-out 1s forwards pageLoad;
 }
 #headline3 {
     opacity: 0;
-    animation: 1.5s ease-out 1.5s pageLoad;
+    animation: 1.5s ease-out 1.5s forwards pageLoad;
 }
 
 #underscore {
