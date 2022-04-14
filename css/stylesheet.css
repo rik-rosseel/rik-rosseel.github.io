@@ -64,11 +64,11 @@ img {
 }
 #header3 {
     opacity: 0;
-    animation: 1.5s ease-out 1.75s forwards pageLoad;
+    animation: 1.5s ease-out 2s forwards pageLoad;
 }
 #header4 {
     opacity: 0;
-    animation: 1.5s ease-out 2.5s forwards pageLoad;
+    animation: 1.5s ease-out 2.75s forwards pageLoad;
 }
 
 #underscore {
