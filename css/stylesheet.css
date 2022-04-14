@@ -151,11 +151,10 @@ img {
 .zoom {
     background-color: transparent;
     transition: transform .2s;
-    margin: 0 auto;
   }
   
 .zoom:hover {
-transform: scale(1.5);
+    transform: scale(1.5);
 }
 
 /* Large screens */
