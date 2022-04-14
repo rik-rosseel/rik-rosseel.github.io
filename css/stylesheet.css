@@ -37,7 +37,7 @@ img {
 	position: fixed;
 	top: 0;
     z-index: 99;
-    height: 100px;
+    height: 80px;
     width: 100%;
     padding-left: 10vw;
     background: -webkit-linear-gradient(#0a0a0a, #0a0a0a00);
@@ -49,19 +49,20 @@ img {
     justify-content: center;
 }
 
-#headline-div {
+#header-div {
+    margin: 20px 0;
     padding-left: 10vw;
     min-height: 400px;
 }
-#headline1 {
+#header1 {
     opacity: 0;
     animation: 1.5s ease-out .5s forwards pageLoad;
 }
-#headline2 {
+#header2 {
     opacity: 0;
     animation: 1.5s ease-out 1s forwards pageLoad;
 }
-#headline3 {
+#header3 {
     opacity: 0;
     animation: 1.5s ease-out 1.5s forwards pageLoad;
 }
