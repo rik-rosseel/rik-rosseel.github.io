@@ -95,8 +95,8 @@ img {
 
 .card {
     margin: 22px 15px 22px 15px;
-    width: 150px;
-    height: 250px;
+    width: 0.2vw;
+    height: calc(0.2vw * 1.7);
     border-radius: 15px;
 }
 
