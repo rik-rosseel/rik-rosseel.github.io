@@ -36,6 +36,7 @@ img {
     /* flex: 1 0 auto;*/
     padding-top: calc(100px + 5vh);
     justify-content: center;
+    transform: translate(-50%, calc(-50% + 1em));
 }
 
 #headline {
