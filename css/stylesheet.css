@@ -61,12 +61,12 @@ img {
 #header2 {
     opacity: 0;
     margin: 0;
-    animation: 1.5s ease-out 1.5s forwards pageLoad;
+    animation: 1.75s ease-out 1.5s forwards pageLoad;
 }
 #header3 {
     opacity: 0;
     margin: 0;
-    animation: 1.5s ease-out 2.25s forwards pageLoad;
+    animation: 1.75s ease-out 2.25s forwards pageLoad;
 }
 #header4 {
     opacity: 0;
