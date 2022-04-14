@@ -50,7 +50,7 @@ img {
 }
 
 #headline {
-    animation: .5s ease-out 0s loadAnimation;
+    animation: 1.5s ease-out 0s loadAnimation;
     padding-left: 10vw;
     min-height: 400px;
 }
