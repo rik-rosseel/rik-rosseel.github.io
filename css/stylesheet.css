@@ -2,7 +2,7 @@
 
 /* Default for small mobile screens */
 
-@keyframes loadAnimation {
+@keyframes pageLoad {
     0% {
         transform: translateY(50%);
         opacity: 0;
@@ -49,10 +49,18 @@ img {
     justify-content: center;
 }
 
-#headline {
-    animation: 1.5s ease-out 0s loadAnimation;
+#headline-div {
     padding-left: 10vw;
     min-height: 400px;
+}
+#headline1 {
+    animation: 1.5s ease-out .5s pageLoad;
+}
+#headline2 {
+    animation: 1.5s ease-out 1s pageLoad;
+}
+#headline3 {
+    animation: 1.5s ease-out 1.5s pageLoad;
 }
 
 #underscore {
