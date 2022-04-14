@@ -149,7 +149,7 @@ img {
 }
 
 .zoom {
-    background-color: transparent;
+    background-color: black;
     transition: transform .2s;
   }
   
