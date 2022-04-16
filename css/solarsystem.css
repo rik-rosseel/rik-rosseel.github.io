@@ -9,7 +9,7 @@
 #solcontainer {
     position: absolute;
     top: 50vh;
-    right: 0vw;
+    right: -100vw;
     transform: translate(5%, -50%);
 }
 
