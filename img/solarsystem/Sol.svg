@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 100 100" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<metadata>
+<vectornator:setting key="IsTimeLapseWatermarkDisabled" value="false"/>
+<vectornator:setting key="UndoHistoryDisabled" value="true"/>
+<vectornator:setting key="VNDimensionsVisible" value="true"/>
+<vectornator:setting key="VNSnapToGuides" value="true"/>
+<vectornator:setting key="WDCMYKEnabledKey" value="false"/>
+<vectornator:setting key="WDDisplayWhiteBackground" value="false"/>
+<vectornator:setting key="WDDynamicGuides" value="false"/>
+<vectornator:setting key="WDGuidesVisible" value="true"/>
+<vectornator:setting key="WDIsolateActiveLayer" value="false"/>
+<vectornator:setting key="WDOutlineMode" value="false"/>
+<vectornator:setting key="WDRulersVisible" value="true"/>
+<vectornator:setting key="WDSnapToEdges" value="false"/>
+<vectornator:setting key="WDSnapToGrid" value="false"/>
+<vectornator:setting key="WDSnapToPoints" value="false"/>
+<vectornator:setting key="WDUnits" value="Points"/>
+</metadata>
+<defs>
+<radialGradient cx="50.0434" cy="50" gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="userSpaceOnUse" id="RadialGradient" r="49.9365">
+<stop offset="0.386364" stop-color="#ffbc45"/>
+<stop offset="0.828512" stop-color="#ffb84d" stop-opacity="0.799937"/>
+<stop offset="0.954545" stop-color="#ffc695" stop-opacity="0.172926"/>
+<stop offset="1" stop-color="#ffeb95" stop-opacity="0"/>
+</radialGradient>
+<radialGradient cx="50.0434" cy="50" gradientTransform="matrix(0.9 0 0 0.9 5 5)" gradientUnits="userSpaceOnUse" id="RadialGradient_2" r="49.9566">
+<stop offset="0.592975" stop-color="#fffdbf"/>
+<stop offset="0.67562" stop-color="#ffeea8"/>
+<stop offset="0.807851" stop-color="#fff98f" stop-opacity="0.905405"/>
+<stop offset="1" stop-color="#ffeb88" stop-opacity="0"/>
+</radialGradient>
+<radialGradient cx="50" cy="50" gradientTransform="matrix(1.02857 0 0 1.02857 -1.42857 -1.42857)" gradientUnits="userSpaceOnUse" id="RadialGradient_3" r="35">
+<stop offset="0.768595" stop-color="#fff492"/>
+<stop offset="0.882231" stop-color="#fffbb9"/>
+<stop offset="1" stop-color="#fff9a3" stop-opacity="0"/>
+</radialGradient>
+<radialGradient cx="50" cy="50" gradientTransform="matrix(0.828774 0 0 0.828774 8.56129 8.56129)" gradientUnits="userSpaceOnUse" id="RadialGradient_4" r="35.2931">
+<stop offset="0" stop-color="#fffce3"/>
+<stop offset="1" stop-color="#fff8a9"/>
+</radialGradient>
+</defs>
+<clipPath id="ArtboardFrame">
+<rect height="100" width="100" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Layer-2" vectornator:layerName="Layer 2" visibility="hidden">
+<path d="M0-7.10543e-15L100-7.10543e-15L100 100L0 100L0-7.10543e-15Z" fill="#121212" fill-rule="evenodd" opacity="1" stroke="none"/>
+</g>
+<g id="Layer-1" vectornator:layerName="Layer 1">
+<path d="M1.06581e-14 50C1.06581e-14 22.3858 22.3858 0 50 0C77.6142 0 100 22.3858 100 50C100 77.6142 77.6142 100 50 100C22.3858 100 1.06581e-14 77.6142 1.06581e-14 50Z" fill="url(#RadialGradient)" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M5 50C5 25.1472 25.1472 5 50 5C74.8528 5 95 25.1472 95 50C95 74.8528 74.8528 95 50 95C25.1472 95 5 74.8528 5 50Z" fill="url(#RadialGradient_2)" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M14 50C14 30.1177 30.1177 14 50 14C69.8823 14 86 30.1177 86 50C86 69.8823 69.8823 86 50 86C30.1177 86 14 69.8823 14 50Z" fill="url(#RadialGradient_3)" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M20.75 50C20.75 33.8457 33.8457 20.75 50 20.75C66.1543 20.75 79.25 33.8457 79.25 50C79.25 66.1543 66.1543 79.25 50 79.25C33.8457 79.25 20.75 66.1543 20.75 50Z" fill="url(#RadialGradient_4)" fill-rule="evenodd" opacity="1" stroke="none"/>
+</g>
+</svg>
