@@ -7,5 +7,5 @@
 #sol { /* TODO: make these responsive dimensions */
     width: calc(100vw * 1.57);
     height: calc(100vw * 1.57);
-    translate: -90% -50%;
+    transform: translateX(-95%);
 }
