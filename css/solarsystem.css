@@ -1,9 +1,7 @@
 
 #sscontainer {
-    min-width: 1920px;
-    max-width: 100vw;
-    min-height: 1080px;
-    max-height: 100vh;
+    width: 100vw;
+    height: 100vh;
 }
 
 #sol { /* TODO: make these responsive dimensions */
