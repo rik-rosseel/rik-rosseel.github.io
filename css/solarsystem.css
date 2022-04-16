@@ -1,19 +1,18 @@
 
 #sscontainer {
+    position: absolute;
     width: 100vw;
     height: 100vh;
-    overflow-y: hidden;
+    overflow: hidden;
 }
 
 #solcontainer {
-    width: calc(100vw * 1.57);
-    height: 100vh
+    position: absolute;
+    top: 50vh;
+    transform: translate(-50%, -50%);
 }
 
 #sol { /* TODO: make these responsive dimensions */
     width: calc(100vw * 1.57);
     height: calc(100vw * 1.57);
-    transform: translate(-95%, -50vh);
-    position: absolute;
-    top: -50%;
 }
