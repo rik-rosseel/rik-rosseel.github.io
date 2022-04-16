@@ -21,11 +21,23 @@
 #mercuriuscontainer {
     position: absolute;
     top: 50vh;
-    left: 15vw;
+    left: 12vw;
     transform: translate(-0vw, -50%);
 }
 
 #mercurius {
     width: calc(100vw * 0.0052);
     height: calc(100vw * 0.0052);
+}
+
+#venuscontainer {
+    position: absolute;
+    top: 50vh;
+    left: 16vw;
+    transform: translate(-0vw, -50%);
+}
+
+#venus {
+    width: calc(100vw * 0.0135);
+    height: calc(100vw * 0.0135);
 }
