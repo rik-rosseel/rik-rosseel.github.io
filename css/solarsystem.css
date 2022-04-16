@@ -5,7 +5,7 @@
 }
 
 #sol { /* TODO: make these responsive dimensions */
-    width: 3027px;
-    height: 3027px;
-    translate: -2882px -973px;
+    width: calc(100vw * 1.57);
+    height: calc(100vw * 1.57);
+    translate: -90% -50%;
 }
