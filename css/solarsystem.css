@@ -41,3 +41,15 @@
     width: calc(100vw * 0.0135);
     height: calc(100vw * 0.0135);
 }
+
+#terracontainer {
+    position: absolute;
+    top: 50vh;
+    left: 20vw;
+    transform: translate(-0vw, -50%);
+}
+
+#terra {
+    width: calc(100vw * 0.0135);
+    height: calc(100vw * 0.0135);
+}
