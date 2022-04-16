@@ -2,6 +2,7 @@
 #sscontainer {
     width: 100vw;
     height: 100vh;
+    overflow-y: hidden;
 }
 
 #sol { /* TODO: make these responsive dimensions */
