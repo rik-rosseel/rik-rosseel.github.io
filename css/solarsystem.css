@@ -9,10 +9,22 @@
 #solcontainer {
     position: absolute;
     top: 50vh;
-    transform: translate(-92%, -50%);
+    right: 0vw;
+    transform: translate(5%, -50%);
 }
 
-#sol { /* TODO: make these responsive dimensions */
-    width: calc(100vw * 1.57);
-    height: calc(100vw * 1.57);
+#sol {
+    width: calc(100vw * 1.5765);
+    height: calc(100vw * 1.5765);
+}
+
+#mercuriuscontainer {
+    position: absolute;
+    top: 50vh;
+    transform: translate(-80vw, -50%);
+}
+
+#mercurius {
+    width: calc(100vw * 0.0052);
+    height: calc(100vw * 0.0052);
 }
