@@ -53,3 +53,15 @@
     width: calc(100vw * 0.0140);
     height: calc(100vw * 0.0140);
 }
+
+#marscontainer {
+    position: absolute;
+    top: 50vh;
+    left: 24vw;
+    transform: translate(-0vw, -50%);
+}
+
+#mars {
+    width: calc(100vw * 0.0072);
+    height: calc(100vw * 0.0072);
+}
