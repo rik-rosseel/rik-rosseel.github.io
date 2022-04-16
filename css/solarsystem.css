@@ -13,7 +13,6 @@
 #sol { /* TODO: make these responsive dimensions */
     width: calc(100vw * 1.57);
     height: calc(100vw * 1.57);
-    max-height: 100vh;
     transform: translate(-95%, -50vh);
     position: absolute;
     top: -50%;
