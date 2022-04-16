@@ -9,8 +9,8 @@
 #solcontainer {
     position: absolute;
     top: 50vh;
-    right: -100vw;
-    transform: translate(5%, -50%);
+    /* left: -100vw; */
+    transform: translate(-90%, -50%);
 }
 
 #sol {
@@ -21,7 +21,8 @@
 #mercuriuscontainer {
     position: absolute;
     top: 50vh;
-    transform: translate(-80vw, -50%);
+    left: 15vw;
+    transform: translate(-0vw, -50%);
 }
 
 #mercurius {
