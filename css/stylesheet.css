@@ -73,11 +73,7 @@ img {
     animation: 1.5s ease-out 3.25s forwards pageLoad;
 }
 
-#footer {
-    position: absolute;
-    bottom: 100vh;
-    left: 0;
-    width: 100%;
+footer {
     padding: 2vw 10vw;
 }
 
