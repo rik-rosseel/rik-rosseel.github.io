@@ -73,10 +73,11 @@ img {
     animation: 1.5s ease-out 3.25s forwards pageLoad;
 }
 
-#underscore {
-    position: relative;
-    top: -0.04em;
-    left: 0.1em;
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
 
 
@@ -95,6 +96,9 @@ img {
 }
 .big-font {
     font-size: 16vw;
+}
+.footer-font {
+    font-size: 1vw;
 }
 
 .center {
