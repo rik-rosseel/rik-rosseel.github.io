@@ -74,10 +74,8 @@ img {
 }
 
 #footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
     width: 100%;
+    margin: 2vw 10vw;
 }
 
 
@@ -98,7 +96,7 @@ img {
     font-size: 16vw;
 }
 .footer-font {
-    font-size: 1vw;
+    font-size: .5vw;
 }
 
 .center {
