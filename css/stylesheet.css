@@ -75,10 +75,10 @@ img {
 
 #footer {
     position: absolute;
-    bottom: O;
+    bottom: 100vh;
     left: 0;
     width: 100%;
-    margin: 2vw 10vw;
+    padding: 2vw 10vw;
 }
 
 
