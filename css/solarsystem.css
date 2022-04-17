@@ -74,6 +74,6 @@
 }
 
 #saturnus {
-    width: calc(100vw * 0.1364);
-    height: calc(100vw * 0.1364);
+    width: calc(100vw * 0.1364 *2);
+    height: calc(100vw * 0.1364 *2);
 }
