@@ -19,6 +19,7 @@ body {
     color: #ffffff;
     background-color: #121212;
     
+    display: flex;
     margin: 0;
 }
 
@@ -44,7 +45,6 @@ img {
 
 #content {
     /* flex: 1 0 auto; */
-    display: flex;
     padding-top: calc(100px + 5vh);
     justify-content: center;
 }
@@ -74,6 +74,9 @@ img {
 }
 
 #footer {
+    position: absolute;
+    bottom: O;
+    left: 0;
     width: 100%;
     margin: 2vw 10vw;
 }
