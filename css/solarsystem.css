@@ -65,3 +65,15 @@
     width: calc(100vw * 0.0072);
     height: calc(100vw * 0.0072);
 }
+
+#saturnuscontainer {
+    position: absolute;
+    top: 50vh;
+    left: 45vw;
+    transform: translate(-0vw, -50%);
+}
+
+#saturnus {
+    width: calc(100vw * 0.1364);
+    height: calc(100vw * 0.1364);
+}
